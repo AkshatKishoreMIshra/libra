@@ -1,0 +1,13 @@
+fastapi[all]>=0.128.0,
+psycopg2-binary>=2.9.11,
+sqlalchemy
+pydantic
+python-dotenv
+passlib[bcrypt]
+python-multipart
+requests
+
+streamlit
+
+pydantic-settings
+ psycopg2-binary
